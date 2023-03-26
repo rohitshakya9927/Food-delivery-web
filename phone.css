@@ -1,0 +1,59 @@
+body{
+    background-color: yellow;
+}
+/* <!-- NAVBAR  --> */
+#navbar{
+    flex-direction: column;
+}
+
+/* <!-- NAVBAR END --> */
+
+/* <!-- Welcome To Online Food To btn(Button)--> */
+.h-primaryWelcome {
+    font-size: 27px;
+    height: 12px;
+    padding: 30px;
+    text-align: center;
+  }
+  #home {
+    display: flex;
+    flex-direction: column;
+    height: 360px;
+    padding: 0px 25px;
+
+  }
+  #home p {
+    font-size: 17px;
+
+  }
+  input {
+    margin: 15px 73px 9px 45px;
+  }
+  #navbar ul li {
+    font-size: 1.5rem;
+    
+}
+/* <!--  Welcome To Online Food To btn(Button) END --> */
+
+/* <!-- Services Boxs --> */
+#services{
+    flex-direction: column;
+}
+#home::before{
+    height: 608px;
+}
+.h-primarycenterOurServices{
+    height:2px;
+    margin: 83px;
+}
+/* <!-- Services Boxs --> */
+
+/* <!-- Client --> */
+#Clients{
+    overflow: hidden;
+}
+/* <!-- Client End --> */
+
+/* <!-- contact --> */
+/* <!-- contact End --> */
+
